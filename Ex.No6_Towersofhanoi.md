@@ -31,6 +31,8 @@ move(N,X,Y,Z) :-
 ```
 
 
+
+
 ### Output:
 
 ![image](https://github.com/Dhanush12022004/AI_Lab_2023-24/assets/128135558/12af04a7-dbfa-4578-a774-e60cccebb1e0)
